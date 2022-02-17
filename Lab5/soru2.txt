@@ -1,0 +1,3 @@
+Tam olarak belirleyemeyiz. threshold değeri arttıkça aradaki fark artacağından dolayı mse artar.
+ama aradaki dengeyi yakalamak görmeden mümkün değil. Mse durmadan artar ama nerede duracağımızı 
+belirlemek görmeden zor gibi.

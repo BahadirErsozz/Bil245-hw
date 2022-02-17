@@ -1,0 +1,3 @@
+rank-k approximaition'da en büyük k değeri alıyoruz ancak.
+threshold'da belli bir değerin altındaki değerleri 0 yapıyoruz(kullanmıyoruz).
+aradaki fark birinde k tane değer diğerinde x for all x>k olan x'leri kullanıyoruz.
